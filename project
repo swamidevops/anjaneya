@@ -3,6 +3,18 @@ import java.util.Scanner;
 public class SimpleInterest {
 
  public static void main(String[] args) {
+ #leader1 changes by chandu on 06-03-2025
+ public class HelloWorld {
+
+ public static void main(String[] args) {
+
+ System.out.println(“Hello, World!”);
+
+ }
+
+}
+
+#leader1 end changes
 
  Scanner input = new Scanner(System.in);
 
