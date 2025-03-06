@@ -3,6 +3,22 @@ import java.util.Scanner;
 public class SimpleInterest {
 
  public static void main(String[] args) {
+ #leader2 making changes on kiran 06-03-2025
+ public class AddNumbers {
+
+ public static void main(String[] args) {
+
+ int num1 = 5, num2 = 10, sum;
+
+ sum = num1 + num2;
+
+ System.out.println(“Sum of ” + num1 + ” and ” + num2 + ” is: ” + sum);
+
+ }
+
+}
+
+#leader2 end of changes
  #leader1 changes by chandu on 06-03-2025
  public class HelloWorld {
 
@@ -15,6 +31,7 @@ public class SimpleInterest {
 }
 
 #leader1 end changes
+
 
  Scanner input = new Scanner(System.in);
 
